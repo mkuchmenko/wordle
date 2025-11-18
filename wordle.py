@@ -3,3 +3,4 @@
 # kuchmenko.maria.10@gmail.com
 
 print("The wordle game!")
+print("The game is over")
